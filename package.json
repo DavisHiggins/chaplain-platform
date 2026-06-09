@@ -9,16 +9,17 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
+    "framer-motion": "latest",
+    "gsap": "^3.15.0",
+    "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "framer-motion": "latest",
-    "lucide-react": "latest"
+    "vite": "latest"
   },
   "devDependencies": {
-    "tailwindcss": "latest",
     "@tailwindcss/postcss": "latest",
+    "autoprefixer": "latest",
     "postcss": "latest",
-    "autoprefixer": "latest"
+    "tailwindcss": "latest"
   }
 }
